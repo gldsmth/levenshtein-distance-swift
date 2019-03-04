@@ -1,3 +1,3 @@
 # levenshtein-distance-swift
-Function for computing Levenshtein distance in swift
-using Dynamic Programming approach
+Function for computing Levenshtein distance\
+Implemented in swift using Dynamic Programming approach
